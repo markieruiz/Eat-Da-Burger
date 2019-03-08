@@ -12,5 +12,10 @@
     "handlebars": "^4.0.5",
     "method-override": "^2.3.5",
     "mysql": "^2.10.2"
+  },
+  "engines": {
+    "node": "8.11.4"
   }
+ 
+
 }
